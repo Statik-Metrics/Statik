@@ -13,3 +13,4 @@ Issue lifecycle and Huboard
 * When you are working on a task (*Working* stage) and you think the task is done, **mark it as ready
 to move to the next stage** so that somebody else can review your work and actually move it to the *Done* stage
 * When moving a task to the *Done* stage, please **search for tasks blocked** because of this newly done task and **unblock them** if possible
+  * You should be able to find those issues, as they should have refenced your issue before
